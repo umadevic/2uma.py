@@ -1,2 +1,2 @@
-umasan=input()
-print(umasan[::-1])
+umasan1=input()
+print(umasan1[::-1])
