@@ -1,9 +1,9 @@
-op1,op2=map(str,input().split())
-for s in op1:
-    d=op1.count(s)
-for y in op2:
-    i=opo2.count(y)
-if(d==i):
+kl1,kl2=map(str,input().split())
+for s in kl1:
+    p=kl1.count(s)
+for y in kl2:
+    i=kl2.count(y)
+if(p==i):
     print("yes")
 else:
     print("no")
